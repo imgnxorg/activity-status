@@ -1,0 +1,3 @@
+# activity-status
+
+A shell script to help you keep track of what you're working on...
